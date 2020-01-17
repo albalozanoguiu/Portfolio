@@ -1845,6 +1845,13 @@
        color: #646464;
        font-size: 150%;
      }
+     .detail-image {
+      margin-bottom: 15px;
+      margin-left: 0%;
+      background-size: contain;
+     background-position: center;
+     background-repeat: no-repeat;
+    }
      .image-5 {
        width: 90%;
        margin-left: 5%;
@@ -2026,6 +2033,9 @@
      .detail-image {
        margin-bottom: 15px;
        margin-left: 0%;
+       background-size: contain;
+      background-position: center;
+      background-repeat: no-repeat;
      }
      .email-section {
        display: block;
@@ -2070,6 +2080,13 @@
        font-size: 36px;
        line-height: 48px;
      }
+     .detail-image {
+      margin-bottom: 15px;
+      margin-left: 0%;
+      background-size: contain;
+     background-position: center;
+     background-repeat: no-repeat;
+    }
      .paragraph-light {
        -webkit-align-self: left;
        -ms-flex-item-align: left;
